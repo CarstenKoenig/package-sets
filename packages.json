@@ -1,7 +1,6 @@
 {
   "argonaut-core": {
     "dependencies": [
-      "arrays",
       "control",
       "either",
       "foreign-object",
