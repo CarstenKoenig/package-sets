@@ -21,10 +21,11 @@
       "argonaut-core",
       "foreign-object",
       "integers",
-      "maybe"
+      "maybe",
+      "ordered-collections"
     ],
-    "repo": "https://github.com/purescript-contrib/purescript-argonaut-codecs.git",
-    "version": "compiler/0.12"
+    "repo": "https://github.com/CarstenKoenig/purescript-argonaut-codecs.git",
+    "version": "CharAtFix"
   },
   "arrays": {
     "dependencies": [
