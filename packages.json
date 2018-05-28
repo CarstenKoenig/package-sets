@@ -16,6 +16,16 @@
     "repo": "https://github.com/purescript-contrib/purescript-argonaut-core.git",
     "version": "v4.0.0"
   },
+  "argonaut-codecs": {
+    "dependencies": [
+      "argonaut-core",
+      "foreign-object",
+      "integers",
+      "maybe"
+    ],
+    "repo": "https://github.com/purescript-contrib/purescript-argonaut-codecs.git",
+    "version": "compiler/0.12"
+  },
   "arrays": {
     "dependencies": [
       "bifunctors",
