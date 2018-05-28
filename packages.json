@@ -1,4 +1,21 @@
 {
+  "argonaut-core": {
+    "dependencies": [
+      "arrays",
+      "control",
+      "either",
+      "foreign-object",
+      "functions",
+      "gen",
+      "maybe",
+      "nonempty",
+      "prelude",
+      "strings",
+      "tailrec"
+    ],
+    "repo": "https://github.com/purescript/purescript-arrays.git",
+    "version": "v4.0.0"
+  },
   "arrays": {
     "dependencies": [
       "bifunctors",
