@@ -1,6 +1,7 @@
 {
   "argonaut-core": {
     "dependencies": [
+      "arrays",
       "control",
       "either",
       "foreign-object",
@@ -12,7 +13,7 @@
       "strings",
       "tailrec"
     ],
-    "repo": "https://github.com/purescript/purescript-arrays.git",
+    "repo": "https://github.com/purescript-contrib/purescript-argonaut-core.git",
     "version": "v4.0.0"
   },
   "arrays": {
